@@ -1,24 +1,17 @@
-RStudio: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=rstudio)
-
-RShiny: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/binder-examples/r/master?urlpath=shiny/bus-dashboard/)
+# RStudio, RShiny w/ MRAN R
 
 # R, RStudio, and RShiny
 
 Example with R, RStudio, and RShiny using the [MRAN packages]([MRAN](https://mran.microsoft.com/documents/rro/reproducibility).
 ).
 
-## Specify R Environment
+## Test with Binder
 
-To specify an **R environment** use the runtime.txt file with the following format:
+| Entry Point | Link |
+| --- | --- |
+| RStudio | [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/illumidesk/r/master?urlpath=rstudio) |
+| RShiny | [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/illumidesk/r/master?urlpath=shiny/bus-dashboard/) |
 
-```
-r-<YYYY>-<MM>-<DD>
-```
+## Credits
 
-## Install R Libraries
-
-To install R libraries (or packages) you can add an [`install.R`](install.R) file that specifies one library to install per line.
-
-## Related
-
-This repo provides an example of [installing and managing R packages with conda](https://github.com/illumidesk/r-conda).
+Sourced from [this template](https://github.com/binder-examples/r).
