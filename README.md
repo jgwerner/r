@@ -9,8 +9,8 @@ Example with R, RStudio, and RShiny using the [MRAN packages]([MRAN](https://mra
 
 | Entry Point | Link |
 | --- | --- |
-| RStudio | [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/illumidesk/r/master?urlpath=rstudio) |
-| RShiny | [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/illumidesk/r/master?urlpath=shiny/bus-dashboard/) |
+| RStudio | [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/illumidesk/r/main?urlpath=rstudio) |
+| RShiny | [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/illumidesk/r/main?urlpath=shiny/bus-dashboard/) |
 
 ## Credits
 
